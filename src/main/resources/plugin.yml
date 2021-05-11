@@ -1,0 +1,6 @@
+main: dev.warriorrr.voxelmapdisabler.VoxelMapDisabler
+api-version: 1.16
+author: Warriorrr
+name: VoxelMapDisabler
+prefix: VoxelMapDisabler
+version: 1.0.0
